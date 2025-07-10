@@ -96,7 +96,7 @@ CREATE TABLE IF NOT EXISTS women_in_history (
 );
   ```
 ----
-## Project Output
+## 📁 Project Output
 ![micoutput](https://github.com/user-attachments/assets/6454c316-a8ab-4532-aaae-bfd37fd8c4ca)
 
 ----
